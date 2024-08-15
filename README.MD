@@ -9,6 +9,9 @@
 ![PAGINA VMWARE](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Semana1/Pagina%20VMware.png?raw=true)
 
 - Dar clic en la opción "Workstation Pro Download"
+
+![Descarga](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Semana1/Descarga.png?raw=true)
+
 - Al dar clic el sitio te pedirá una cuenta en BROADCOM
 - Ingresa a la página de BROADCOM y crea una cuenta
 - Introduce un correo electrónico y realiza captcha
