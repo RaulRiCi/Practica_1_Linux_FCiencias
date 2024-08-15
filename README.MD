@@ -36,4 +36,4 @@ Particiones ad-hoc: Esto se refiere a crear particiones de manera personalizada 
 
 ## Instrucciones
 
-- Para la primera instalacion
+1. Antes de comenzar con la creacion de una nueva maquina virtual
