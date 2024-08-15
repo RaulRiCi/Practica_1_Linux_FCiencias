@@ -18,4 +18,4 @@
 - Ejecuta la aplicación para la instalación de VMware
 - Seleccione las opciones que se muestran en la imagenes y finalice la instalación
 - Reinicie el sistema
-- Ejecuta la aplicacion de VMware y selecciona la opcion para uso personal
+- Ejecuta la aplicación de VMware y selecciona la opción para uso personal
