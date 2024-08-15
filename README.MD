@@ -1,6 +1,6 @@
 # Laboratorio 1
 
-## Instalar VMware
+# Instalar VMware
 
 ## Pasos a seguir
 
@@ -19,3 +19,15 @@
 - Seleccione las opciones que se muestran en la imagenes y finalice la instalación
 - Reinicie el sistema
 - Ejecuta la aplicación de VMware y selecciona la opción para uso personal
+
+# Instalar Linux sin LVM y particiones ad-hoc
+
+## Introducción
+
+LVM es una herramienta para gestionar volúmenes de disco en Linux. Permite crear, redimensionar y mover particiones de manera más flexible que con particiones estándar.
+
+Particiones ad-hoc: Esto se refiere a crear particiones de manera personalizada según tus necesidades específicas en lugar de usar configuraciones predeterminadas.
+
+## Instrucciones
+
+- Para la primera instalacion
