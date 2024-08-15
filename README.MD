@@ -13,6 +13,9 @@
 ![Descarga](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Semana1/Descarga.png?raw=true)
 
 - Al dar clic el sitio te pedirá una cuenta en BROADCOM
+
+![Usuario](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Semana1/Usuario.png?raw=true)
+
 - Ingresa a la página de BROADCOM y crea una cuenta
 - Introduce un correo electrónico y realiza captcha
 - Se enviará un correo de confirmación a la cuenta que hayas registrado, copia en código de verificación e introdúcelo en la página de BROADCOM
