@@ -5,6 +5,9 @@
 ## Pasos a seguir
 
 - Ingresar al siguiente enlace: https://blogs.vmware.com/workstation/2024/05/vmware-workstation-pro-now-available-free-for-personal-use.html
+
+![PAGINA VMWARE](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Semana1/Pagina%20VMware.png?raw=true)
+
 - Dar clic en la opción "Workstation Pro Download"
 - Al dar clic el sitio te pedirá una cuenta en BROADCOM
 - Ingresa a la página de BROADCOM y crea una cuenta
