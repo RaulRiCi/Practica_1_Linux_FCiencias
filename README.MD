@@ -4,11 +4,11 @@
 
 ## Pasos a seguir
 
-1. Ingresar al siguiente enlace: https://blogs.vmware.com/workstation/2024/05/vmware-workstation-pro-now-available-free-for-personal-use.html
+1. Ingresar al siguiente enlace: https://blogs.vmware.com/workstation/2024/05/vmware-workstation-pro-now-available-free-for-personal-use.html .
 
 ![PAGINA VMWARE](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Semana1/Pagina%20VMware.png?raw=true)
 
-2. Dar clic en la opción "Workstation Pro Download"
+2. Dar clic en la opción "Workstation Pro Download".
 
 ![Descarga](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Semana1/Descarga.png?raw=true)
 
