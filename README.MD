@@ -1,5 +1,3 @@
-# HOLA
+# Laboratorio 1
 
-## BUENAS CLAVALES
-
-Hola
+## Instalar VMware
