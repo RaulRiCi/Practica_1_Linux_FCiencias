@@ -195,3 +195,9 @@ Dejamos este espacio en blanco.
 ![FIN](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Debian/Finalizar.png?raw=true)
 
 ![LOGIN](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Debian/Login.png?raw=true)
+
+# Instalar Linux con LVM y particiones ad-hoc
+
+## Instrucciones
+
+1. La configuracion de la maquina al momento de crearla es la misma. La instalacion tambien solo hasta esta parte:
