@@ -132,17 +132,17 @@ Sigue los siguientes pasos:
 
 ![LOCALES](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Debian/locales.png?raw=true)
 
-NOTA: Selecciona el formato de tu teclado
+NOTA: Selecciona el formato de tu teclado.
 
 ![TECLADO](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Debian/Teclado.png?raw=true)
 
 ![NETWORK](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Debian/network.png?raw=true)
 
-NOTA: Dejamos este espacio en blanco
+NOTA: Dejamos este espacio en blanco.
 
 ![NET](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Debian/network2.png?raw=true)
 
-Asignamos una contraseña
+Asignamos una contraseña.
 
 ![PASSWORD](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Debian/password.png?raw=true)
 
@@ -152,7 +152,7 @@ Asignamos una contraseña
 
 ![U2](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Debian/User2.png?raw=true)
 
-Asignamos una contraseña
+Asignamos una contraseña.
 
 ![PU](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Debian/PU.png?raw=true)
 
@@ -160,7 +160,7 @@ Asignamos una contraseña
 
 ![clock](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Debian/clock.png?raw=true)
 
-Seleccionamos esta opción para la instalación sin LVM
+Seleccionamos esta opción para la instalación sin LVM.
 
 ![particiones](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Debian/particiones.png?raw=true)
 
@@ -180,7 +180,7 @@ Seleccionamos esta opción para la instalación sin LVM
 
 ![PM4](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Debian/PM4.png?raw=true)
 
-Dejamos este espacio en blanco
+Dejamos este espacio en blanco.
 
 ![PM5](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Debian/PM5.png?raw=true)
 
