@@ -84,4 +84,20 @@ Particiones ad-hoc: Esto se refiere a crear particiones de manera personalizada 
 
 ## Instrucciones
 
-1. Antes de comenzar con la creacion de una nueva maquina virtual
+1. Descargar la imagen de instalación completa de Debian con los siguientes pasos:
+
+![PDebian](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Debian/Pagina%20Debian.png?raw=true)
+
+![Completa](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Debian/Imagen%20de%20instalacion%20completa.png?raw=true)
+
+![DDebian](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Debian/Descarga.png?raw=true)
+
+![DVD](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Debian/DVD.png?raw=true)
+
+![ISO](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Debian/ISO.png?raw=true)
+
+![DISO](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Debian/DEBIANISO.png?raw=true)
+
+2. Abrir VMware y crear una nueva máquina virtual.
+3. Enciende la máquina virtual.
+4. Sigue los siguientes pasos para la instalación sin LVM.
