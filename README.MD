@@ -200,4 +200,80 @@ Dejamos este espacio en blanco.
 
 ## Instrucciones
 
-1. La configuracion de la maquina al momento de crearla es la misma. La instalacion tambien solo hasta esta parte:
+1. La configuración de la máquina al momento de crearla es la misma. La instalación también es la misma solo hasta esta parte:
+
+![ILVM](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Debian/InstalacionLVM.png?raw=true)
+
+![ILVM2](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Debian/ILVM2.png?raw=true)
+
+![ILVM3](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Debian/ILVM3.png?raw=true)
+
+![ILVM4](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Debian/ILVM4.png?raw=true)
+
+![ILVM5](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Debian/ILVM5.png?raw=true)
+
+![ILVM6](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Debian/ILVM6.png?raw=true)
+
+![ILVM7](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Debian/ILVM7.png?raw=true)
+
+![ILVM8](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Debian/ILVM8.png?raw=true)
+
+![ILVM9](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Debian/ILVM9.png?raw=true)
+
+![ILVM10](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Debian/ILVM10.png?raw=true)
+
+![ILVM11](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Debian/ILVM11.png?raw=true)
+
+![ILVM12](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Debian/ILVM12.png?raw=true)
+
+![ILVM13](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Debian/ILVM13.png?raw=true)
+
+![ILVM14](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Debian/ILVM14.png?raw=true)
+
+![ILVM15](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Debian/ILVM15.png?raw=true)
+
+![ILVM16](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Debian/ILVM16.png?raw=true)
+
+![ILVM17](https://github.com/RaulRiCi/Practica_1_Linux_FCiencias/blob/main/Debian/ILVM17.png?raw=true)
+
+# Comandos LVM
+
+## Introduccion
+
+- sudo apt install lvm2
+- sudo apt install xfsprogs
+- sudo apt install util-linux
+
+Estos comandos se utilizan para instalar diferentes paquetes en Debian que son necesarios para gestionar y trabajar con volúmenes lógicos (LVM), sistemas de archivos XFS, y utilidades básicas del sistema.
+
+1. sudo apt install lvm2
+
+- LVM2 (Logical Volume Manager 2): Este paquete incluye herramientas necesarias para gestionar volúmenes lógicos en Linux. Con lvm2, puedes crear, modificar, eliminar y consultar volúmenes físicos, grupos de volúmenes, y volúmenes lógicos.
+
+2. sudo apt install xfsprogs
+
+- XFSprogs: Este paquete proporciona un conjunto de herramientas para administrar el sistema de archivos XFS, que es conocido por su alta escalabilidad y rendimiento.
+
+3. sudo apt install util-linux
+
+- Util-linux: Este es un paquete fundamental que incluye una amplia gama de utilidades del sistema que son esenciales para la administración diaria de un sistema Linux.
+
+## Comandos
+
+- lsblk: Este comando se utiliza para mostrar la información de los dispositivos de bloques, como discos y particiones.
+
+- pvcreate: Este comando se utiliza para designar un disco o partición como un Physical Volume (PV), que es el bloque de construcción más básico en LVM. Al hacer esto, el disco o partición se prepara para ser incluido en un Volume Group (VG).
+
+- vgs: Este comando muestra información sobre los grupos de volúmenes (VGs) disponibles en el sistema. Esto incluye detalles como el tamaño total del VG, el espacio libre disponible, y cuántos volúmenes lógicos (LVs) están asociados al VG.
+
+- vgextend: Se usa para añadir capacidad a un grupo de volúmenes existente. Esto se logra agregando un nuevo Physical Volume (PV) al Volume Group (VG), lo que incrementa el tamaño total del VG.
+
+- vgdisplay: Este comando proporciona una visualización detallada de la información de un grupo de volúmenes (VG) específico. Esto incluye detalles como el tamaño total, el espacio libre disponible, el número de volúmenes físicos (PVs) y lógicos (LVs), entre otros.
+
+- lvs: Este comando muestra información sobre los volúmenes lógicos (LVs) dentro de los grupos de volúmenes (VGs). La salida incluye detalles como el nombre del LV, el tamaño, y el VG al que pertenece.
+
+- lvextend: Este comando se utiliza para extender el tamaño de un volumen lógico (LV). Puedes añadir más espacio a un LV existente, usando el espacio libre disponible en el grupo de volúmenes (VG) al que pertenece el LV.
+
+- xfs_growfs: Este comando se usa para expandir un sistema de archivos XFS en un volumen lógico (LV) recién extendido.
+
+- df -h: Este comando muestra el uso de disco en una forma legible para humanos, con tamaños mostrados en MB, GB, etc.
